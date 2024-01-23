@@ -1,1 +1,2 @@
-Init of Repo
+Init of repo. 
+Fixed typo in second commit.
